@@ -53,12 +53,7 @@ The core is `WindowManagerContext` (`src/contexts/WindowManagerContext.tsx`). It
 
 Every app lives in `src/components/apps/` and is registered in `src/components/desktop/DesktopIcon.tsx`. Adding a new app = one component + one registry entry.
 
-## Devlogs
-
-- [Devlog 1 — Converting a Lovable App into a WebOS](devlog-01.md)
-- [Devlog 2 — Building All 22 Apps and the Desktop Experience](devlog-02.md)
-- [Devlog 3 — Cleaning House: Rewriting for Real](devlog-03.md)
 
 ## Author
 
-Ramskandh Thirandasu ([@Anushthegamer](https://github.com/Anushthegamer))
+Ramskandh Thirandasu
